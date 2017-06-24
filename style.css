@@ -1,0 +1,38 @@
+#header{
+    font-family: 'Courgette', cursive;
+}
+body{
+    background: #0fc;
+}
+#canvas{
+    cursor:pointer;
+    height:200px;
+}
+#can{ 
+    overflow: hidden;
+max-height: 190px;
+background: #000;
+}
+#can h2{
+  position: relative;
+  top: -140px;left:145px;
+}
+#all{
+    
+   overflow: hidden;
+   padding:15px;
+   max-width: 325px;
+   max-height:420px;
+   box-shadow: 5px 5px 6px red,  -5px -5px 6px red;
+}
+#header{
+    width: 600px;
+    height:200px;
+    background:grey;
+    text-align: center;
+    border-radius: 20%;
+     margin-bottom: 50px;
+}
+#header h1{
+    margin-bottom: 40px;
+}
